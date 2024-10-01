@@ -1,0 +1,8 @@
+prefix=/home/drithi/catkin_ws/install
+
+Name: campus_tour
+Description: Description of campus_tour
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs roscpp rospy

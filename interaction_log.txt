@@ -1,0 +1,441 @@
+[1727684912.9680746] [1]: Assisting Visitor 1.
+[1727684912.9683747] [1]: Contacting bi_agent_lhc for lhc map.
+[1727684913.9696279] [1]: Visitor 1, your map for hostels is provided.
+[1727684913.9699268] [1]: Taking Visitor 1 to the host in lhc.
+[1727684915.9721217] [1]: Returned Visitor 1 to entrance.
+[1727684915.972286] [1]: Assisting Visitor 1.
+[1727684915.9723327] [1]: Contacting bi_agent_library for library map.
+[1727684916.9736233] [1]: Visitor 1, host is not available.
+[1727684919.9676063] [1]: Assisting Visitor 1.
+[1727684919.967809] [1]: Contacting bi_agent_library for library map.
+[1727684920.9684653] [1]: Visitor 1, I am currently out of service.
+[1727684923.966283] [1]: Assisting Visitor 1.
+[1727684923.9663982] [1]: Contacting bi_agent_library for library map.
+[1727684924.967577] [1]: Visitor 1, host is not available.
+[1727684927.9678183] [1]: Assisting Visitor 1.
+[1727684927.9680548] [1]: Contacting bi_agent_lhc for lhc map.
+[1727684928.9692626] [1]: Visitor 1, host is not available.
+[1727684939.9677281] [1]: Assisting Visitor 1.
+[1727684939.967901] [1]: Contacting bi_agent_library for library map.
+[1727684940.969085] [1]: Visitor 1, I am currently out of service.
+[1727684941.9684162] [1]: Assisting Visitor 1.
+[1727684941.9686496] [1]: Contacting bi_agent_lhc for lhc map.
+[1727684942.9698296] [1]: Visitor 1, I am currently out of service.
+[1727684942.9700062] [1]: Assisting Visitor 1.
+[1727684942.9700499] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727684943.971217] [1]: Visitor 1, I am currently out of service.
+[1727684944.968278] [1]: Assisting Visitor 1.
+[1727684944.9685416] [1]: Contacting bi_agent_lhc for lhc map.
+[1727684945.969718] [1]: Visitor 1, I am currently out of service.
+[1727684964.967932] [1]: Assisting Visitor 1.
+[1727684964.9681683] [1]: Contacting bi_agent_library for library map.
+[1727684965.9694045] [1]: Visitor 1, I am currently out of service.
+[1727684966.968052] [1]: Assisting Visitor 1.
+[1727684966.9682806] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727684967.9694939] [1]: Visitor 1, your map for academic_block is provided.
+[1727684967.9697196] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727684969.9719005] [1]: Returned Visitor 1 to entrance.
+[1727684971.969383] [1]: Assisting Visitor 1.
+[1727684971.9696207] [1]: Contacting bi_agent_library for library map.
+[1727684972.9708445] [1]: Visitor 1, host is not available.
+[1727684982.9662359] [1]: Assisting Visitor 1.
+[1727684982.9663463] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727684983.967623] [1]: Visitor 1, host is not available.
+[1727684991.9666278] [1]: Assisting Visitor 1.
+[1727684991.9667413] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727684992.9678247] [1]: Visitor 1, your map for lhc is provided.
+[1727684992.967969] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727684994.9697611] [1]: Returned Visitor 1 to entrance.
+[1727684998.966092] [1]: Assisting Visitor 1.
+[1727684998.9662619] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727684999.9674227] [1]: Visitor 1, your map for sports_complex is provided.
+[1727684999.9676664] [1]: Taking Visitor 1 to the host in academic_block.
+[1727685001.9698415] [1]: Returned Visitor 1 to entrance.
+[1727685001.9702535] [1]: Assisting Visitor 1.
+[1727685001.9703727] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727685002.971566] [1]: Visitor 1, host is not available.
+[1727685002.9718122] [1]: Assisting Visitor 1.
+[1727685002.9719162] [1]: Contacting bi_agent_hostels for hostels map.
+[1727685003.9731681] [1]: Visitor 1, your map for lhc is provided.
+[1727685003.97382] [1]: Taking Visitor 1 to the host in hostels.
+[1727685005.97487] [1]: Returned Visitor 1 to entrance.
+[1727685005.9750988] [1]: Assisting Visitor 1.
+[1727685005.9751582] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727685006.9762843] [1]: Visitor 1, your map for lhc is provided.
+[1727685006.9764113] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727685008.9778388] [1]: Returned Visitor 1 to entrance.
+[1727685008.9780235] [1]: Assisting Visitor 1.
+[1727685008.9780734] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727685009.979233] [1]: Visitor 1, your map for hostels is provided.
+[1727685009.9794464] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727685011.9810288] [1]: Returned Visitor 1 to entrance.
+[1727685011.9811993] [1]: Assisting Visitor 1.
+[1727685011.9812624] [1]: Contacting bi_agent_lhc for lhc map.
+[1727685012.9818778] [1]: Visitor 1, I am currently out of service.
+[1727685012.9821029] [1]: Assisting Visitor 1.
+[1727685012.9821482] [1]: Contacting bi_agent_lhc for lhc map.
+[1727685013.9833333] [1]: Visitor 1, host is not available.
+[1727685014.9686556] [1]: Assisting Visitor 1.
+[1727685014.968904] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727685015.9698496] [1]: Visitor 1, host is not available.
+[1727685019.9678404] [1]: Assisting Visitor 1.
+[1727685019.9680886] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727685020.9693866] [1]: Visitor 1, I am currently out of service.
+[1727685026.9679897] [1]: Assisting Visitor 1.
+[1727685026.9682302] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727685027.9693925] [1]: Visitor 1, your map for hostels is provided.
+[1727685027.969512] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727685029.9698074] [1]: Returned Visitor 1 to entrance.
+[1727685031.9685068] [1]: Assisting Visitor 1.
+[1727685031.968763] [1]: Contacting bi_agent_lhc for lhc map.
+[1727685032.969823] [1]: Visitor 1, your map for hostels is provided.
+[1727685032.9699187] [1]: Taking Visitor 1 to the host in lhc.
+[1727685034.97202] [1]: Returned Visitor 1 to entrance.
+[1727685975.2417948] [1]: Assisting Visitor 1.
+[1727685975.2420845] [1]: Contacting bi_agent_library for library map.
+[1727685976.2433665] [1]: Visitor 1, I am currently out of service.
+[1727685982.2393653] [1]: Assisting Visitor 1.
+[1727685982.2394767] [1]: Contacting bi_agent_lhc for lhc map.
+[1727685983.2406366] [1]: Visitor 1, I am currently out of service.
+[1727685987.240884] [1]: Assisting Visitor 1.
+[1727685987.2411144] [1]: Contacting bi_agent_lhc for lhc map.
+[1727685988.241857] [1]: Visitor 1, your map for sports_complex is provided.
+[1727685988.242041] [1]: Taking Visitor 1 to the host in lhc.
+[1727685988.9383693] [1]: Assisting Visitor 1.
+[1727685988.938525] [1]: I am currently busy.
+[1727685989.939228] [1]: Assisting Visitor 1.
+[1727685989.9394596] [1]: I am currently busy.
+[1727685990.244146] [1]: Returned Visitor 1 to entrance.
+[1727685994.9391074] [1]: Assisting Visitor 1.
+[1727685994.9393644] [1]: Contacting bi_agent_lhc for lhc map.
+[1727685995.94064] [1]: Visitor 1, your map for hostels is provided.
+[1727685995.9409397] [1]: Taking Visitor 1 to the host in lhc.
+[1727685997.9417996] [1]: Returned Visitor 1 to entrance.
+[1727686003.939184] [1]: Assisting Visitor 1.
+[1727686003.939394] [1]: Contacting bi_agent_lhc for lhc map.
+[1727686004.9405444] [1]: Visitor 1, your map for sports_complex is provided.
+[1727686004.9406638] [1]: Taking Visitor 1 to the host in lhc.
+[1727686006.9424274] [1]: Returned Visitor 1 to entrance.
+[1727686007.939275] [1]: Assisting Visitor 1.
+[1727686007.9395182] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686008.940711] [1]: Visitor 1, I am currently out of service.
+[1727686009.9391885] [1]: Assisting Visitor 1.
+[1727686009.9394245] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727686010.9406679] [1]: Visitor 1, host is not available.
+[1727686013.9387398] [1]: Assisting Visitor 1.
+[1727686013.9389596] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727686014.940238] [1]: Visitor 1, your map for library is provided.
+[1727686014.9405577] [1]: Taking Visitor 1 to the host in academic_block.
+[1727686015.2416081] [1]: Assisting Visitor 1.
+[1727686015.2418249] [1]: I am currently busy.
+[1727686016.9417868] [1]: Returned Visitor 1 to entrance.
+[1727686016.9421153] [1]: Assisting Visitor 1.
+[1727686016.9422426] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727686017.9435172] [1]: Visitor 1, host is not available.
+[1727686017.943957] [1]: Assisting Visitor 1.
+[1727686017.9441066] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686018.241202] [1]: Assisting Visitor 1.
+[1727686018.2414296] [1]: I am currently busy.
+[1727686018.9453554] [1]: Visitor 1, I am currently out of service.
+[1727686019.2412558] [1]: Assisting Visitor 1.
+[1727686019.241483] [1]: Contacting bi_agent_lhc for lhc map.
+[1727686020.2419145] [1]: Visitor 1, your map for lhc is provided.
+[1727686020.2421095] [1]: Taking Visitor 1 to the host in lhc.
+[1727686022.2442107] [1]: Returned Visitor 1 to entrance.
+[1727686022.2445226] [1]: Assisting Visitor 1.
+[1727686022.2446382] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727686023.245658] [1]: Visitor 1, your map for lhc is provided.
+[1727686023.2458873] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727686024.9396565] [1]: Assisting Visitor 1.
+[1727686024.9398098] [1]: I am currently busy.
+[1727686025.2480204] [1]: Returned Visitor 1 to entrance.
+[1727686025.2483354] [1]: Assisting Visitor 1.
+[1727686025.248491] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686026.249744] [1]: Visitor 1, your map for sports_complex is provided.
+[1727686026.2499838] [1]: Taking Visitor 1 to the host in hostels.
+[1727686028.2521014] [1]: Returned Visitor 1 to entrance.
+[1727686031.24093] [1]: Assisting Visitor 1.
+[1727686031.2411468] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727686032.2418818] [1]: Visitor 1, I am currently out of service.
+[1727686037.2422414] [1]: Assisting Visitor 1.
+[1727686037.2424622] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727686038.2437494] [1]: Visitor 1, host is not available.
+[1727686040.240316] [1]: Assisting Visitor 1.
+[1727686040.240488] [1]: Contacting bi_agent_lhc for lhc map.
+[1727686041.2409744] [1]: Visitor 1, host is not available.
+[1727686041.241202] [1]: Assisting Visitor 1.
+[1727686041.2412798] [1]: Contacting bi_agent_library for library map.
+[1727686042.2418673] [1]: Visitor 1, your map for library is provided.
+[1727686042.2420926] [1]: Taking Visitor 1 to the host in library.
+[1727686042.9408562] [1]: Assisting Visitor 1.
+[1727686042.9412768] [1]: I am currently busy.
+[1727686044.2442908] [1]: Returned Visitor 1 to entrance.
+[1727686045.9400275] [1]: Assisting Visitor 1.
+[1727686045.9402323] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686046.9414058] [1]: Visitor 1, host is not available.
+[1727686046.9416296] [1]: Assisting Visitor 1.
+[1727686046.9416971] [1]: Contacting bi_agent_library for library map.
+[1727686047.2411425] [1]: Assisting Visitor 1.
+[1727686047.2413535] [1]: I am currently busy.
+[1727686047.9420288] [1]: Visitor 1, your map for library is provided.
+[1727686047.9422982] [1]: Taking Visitor 1 to the host in library.
+[1727686049.2409422] [1]: Assisting Visitor 1.
+[1727686049.2411492] [1]: I am currently busy.
+[1727686049.9444618] [1]: Returned Visitor 1 to entrance.
+[1727686049.9448683] [1]: Assisting Visitor 1.
+[1727686049.9450145] [1]: Contacting bi_agent_lhc for lhc map.
+[1727686050.9459207] [1]: Visitor 1, host is not available.
+[1727686051.2416108] [1]: Assisting Visitor 1.
+[1727686051.2418294] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686052.2431164] [1]: Visitor 1, I am currently out of service.
+[1727686053.241653] [1]: Assisting Visitor 1.
+[1727686053.2418861] [1]: Contacting bi_agent_library for library map.
+[1727686054.243136] [1]: Visitor 1, I am currently out of service.
+[1727686055.2410078] [1]: Assisting Visitor 1.
+[1727686055.2412677] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686056.241856] [1]: Visitor 1, your map for library is provided.
+[1727686056.2420547] [1]: Taking Visitor 1 to the host in hostels.
+[1727686058.2441616] [1]: Returned Visitor 1 to entrance.
+[1727686058.9415457] [1]: Assisting Visitor 1.
+[1727686058.942061] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686059.943373] [1]: Visitor 1, host is not available.
+[1727686061.940597] [1]: Assisting Visitor 1.
+[1727686061.9408417] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727686062.941864] [1]: Visitor 1, host is not available.
+[1727686068.2408667] [1]: Assisting Visitor 1.
+[1727686068.2410846] [1]: Contacting bi_agent_lhc for lhc map.
+[1727686069.241878] [1]: Visitor 1, host is not available.
+[1727686074.9386997] [1]: Assisting Visitor 1.
+[1727686074.938886] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727686075.2401538] [1]: Assisting Visitor 1.
+[1727686075.2403028] [1]: I am currently busy.
+[1727686075.9392662] [1]: Visitor 1, I am currently out of service.
+[1727686083.9389288] [1]: Assisting Visitor 1.
+[1727686083.9391718] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727686084.24085] [1]: Assisting Visitor 1.
+[1727686084.2410557] [1]: I am currently busy.
+[1727686084.94042] [1]: Visitor 1, host is not available.
+[1727686086.2410514] [1]: Assisting Visitor 1.
+[1727686086.2412698] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727686087.2419708] [1]: Visitor 1, your map for lhc is provided.
+[1727686087.2421985] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727686087.9393513] [1]: Assisting Visitor 1.
+[1727686087.9395359] [1]: I am currently busy.
+[1727686089.2430944] [1]: Returned Visitor 1 to entrance.
+[1727686089.2435575] [1]: Assisting Visitor 1.
+[1727686089.2437007] [1]: Contacting bi_agent_lhc for lhc map.
+[1727686090.2449214] [1]: Visitor 1, your map for academic_block is provided.
+[1727686090.2451792] [1]: Taking Visitor 1 to the host in lhc.
+[1727686092.2457788] [1]: Returned Visitor 1 to entrance.
+[1727686093.2412095] [1]: Assisting Visitor 1.
+[1727686093.2414293] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727686094.242521] [1]: Visitor 1, I am currently out of service.
+[1727686100.9410655] [1]: Assisting Visitor 1.
+[1727686100.941374] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727686101.2415159] [1]: Assisting Visitor 1.
+[1727686101.2416964] [1]: I am currently busy.
+[1727686101.9419584] [1]: Visitor 1, host is not available.
+[1727686104.2409935] [1]: Assisting Visitor 1.
+[1727686104.241175] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727686105.2419276] [1]: Visitor 1, host is not available.
+[1727686107.2414136] [1]: Assisting Visitor 1.
+[1727686107.241639] [1]: Contacting bi_agent_library for library map.
+[1727686107.9393005] [1]: Assisting Visitor 1.
+[1727686107.9395437] [1]: I am currently busy.
+[1727686108.2419834] [1]: Visitor 1, host is not available.
+[1727686109.2410562] [1]: Assisting Visitor 1.
+[1727686109.241297] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686110.2425575] [1]: Visitor 1, I am currently out of service.
+[1727686113.241315] [1]: Assisting Visitor 1.
+[1727686113.2415712] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727686113.9391978] [1]: Assisting Visitor 1.
+[1727686113.93942] [1]: I am currently busy.
+[1727686114.2420263] [1]: Visitor 1, your map for lhc is provided.
+[1727686114.2423024] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727686116.2444696] [1]: Returned Visitor 1 to entrance.
+[1727686116.9401538] [1]: Assisting Visitor 1.
+[1727686116.9404252] [1]: Contacting bi_agent_lhc for lhc map.
+[1727686117.941681] [1]: Visitor 1, I am currently out of service.
+[1727686117.9420547] [1]: Assisting Visitor 1.
+[1727686117.9422097] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686118.9434383] [1]: Visitor 1, your map for lhc is provided.
+[1727686118.9437284] [1]: Taking Visitor 1 to the host in hostels.
+[1727686120.9458137] [1]: Returned Visitor 1 to entrance.
+[1727686126.2407422] [1]: Assisting Visitor 1.
+[1727686126.2409208] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686127.2419593] [1]: Visitor 1, your map for lhc is provided.
+[1727686127.2421765] [1]: Taking Visitor 1 to the host in hostels.
+[1727686129.2443144] [1]: Returned Visitor 1 to entrance.
+[1727686130.9392252] [1]: Assisting Visitor 1.
+[1727686130.9394395] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686131.9407227] [1]: Visitor 1, your map for academic_block is provided.
+[1727686131.9409559] [1]: Taking Visitor 1 to the host in hostels.
+[1727686133.2412326] [1]: Assisting Visitor 1.
+[1727686133.241413] [1]: I am currently busy.
+[1727686133.942972] [1]: Returned Visitor 1 to entrance.
+[1727686133.943472] [1]: Assisting Visitor 1.
+[1727686133.9436467] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686134.9449027] [1]: Visitor 1, your map for hostels is provided.
+[1727686134.9451609] [1]: Taking Visitor 1 to the host in hostels.
+[1727686135.2396357] [1]: Assisting Visitor 1.
+[1727686135.2397408] [1]: I am currently busy.
+[1727686136.2410831] [1]: Assisting Visitor 1.
+[1727686136.2412803] [1]: I am currently busy.
+[1727686136.9458876] [1]: Returned Visitor 1 to entrance.
+[1727686136.9462562] [1]: Assisting Visitor 1.
+[1727686136.9463959] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686137.2424445] [1]: Assisting Visitor 1.
+[1727686137.242629] [1]: I am currently busy.
+[1727686137.9475935] [1]: Visitor 1, I am currently out of service.
+[1727686138.2414434] [1]: Assisting Visitor 1.
+[1727686138.2416449] [1]: Contacting bi_agent_lhc for lhc map.
+[1727686139.242892] [1]: Visitor 1, host is not available.
+[1727686142.9409587] [1]: Assisting Visitor 1.
+[1727686142.9411418] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727686143.9419017] [1]: Visitor 1, host is not available.
+[1727686143.942243] [1]: Assisting Visitor 1.
+[1727686143.942382] [1]: Contacting bi_agent_library for library map.
+[1727686144.9435837] [1]: Visitor 1, host is not available.
+[1727686146.2407918] [1]: Assisting Visitor 1.
+[1727686146.240997] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686147.241885] [1]: Visitor 1, your map for lhc is provided.
+[1727686147.2421043] [1]: Taking Visitor 1 to the host in hostels.
+[1727686149.244309] [1]: Returned Visitor 1 to entrance.
+[1727686151.939383] [1]: Assisting Visitor 1.
+[1727686151.9396143] [1]: Contacting bi_agent_library for library map.
+[1727686152.9409168] [1]: Visitor 1, I am currently out of service.
+[1727686154.24059] [1]: Assisting Visitor 1.
+[1727686154.2407894] [1]: Contacting bi_agent_lhc for lhc map.
+[1727686154.9382615] [1]: Assisting Visitor 1.
+[1727686154.9384348] [1]: I am currently busy.
+[1727686155.2419188] [1]: Visitor 1, your map for lhc is provided.
+[1727686155.2421525] [1]: Taking Visitor 1 to the host in lhc.
+[1727686157.2443335] [1]: Returned Visitor 1 to entrance.
+[1727686157.244668] [1]: Assisting Visitor 1.
+[1727686157.244821] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686158.2458851] [1]: Visitor 1, I am currently out of service.
+[1727686163.939723] [1]: Assisting Visitor 1.
+[1727686163.9399548] [1]: Contacting bi_agent_hostels for hostels map.
+[1727686164.9411347] [1]: Visitor 1, host is not available.
+[1727686167.2409964] [1]: Assisting Visitor 1.
+[1727686167.2412639] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727686167.9391365] [1]: Assisting Visitor 1.
+[1727686167.939274] [1]: I am currently busy.
+[1727686168.2418797] [1]: Visitor 1, your map for academic_block is provided.
+[1727686168.2421181] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727686170.2442253] [1]: Returned Visitor 1 to entrance.
+[1727686170.2443802] [1]: Assisting Visitor 1.
+[1727686170.2444313] [1]: Contacting bi_agent_library for library map.
+[1727686171.2457025] [1]: Visitor 1, I am currently out of service.
+[1727686171.9382997] [1]: Assisting Visitor 1.
+[1727686171.9384398] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727686172.9396224] [1]: Visitor 1, your map for hostels is provided.
+[1727686172.9398377] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727686173.2411487] [1]: Assisting Visitor 1.
+[1727686173.2413538] [1]: I am currently busy.
+[1727686174.9417849] [1]: Returned Visitor 1 to entrance.
+[1727686175.9392576] [1]: Assisting Visitor 1.
+[1727686175.9395266] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727686176.9408107] [1]: Visitor 1, your map for lhc is provided.
+[1727686176.941185] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727686178.2410944] [1]: Assisting Visitor 1.
+[1727686178.2413352] [1]: I am currently busy.
+[1727686178.9418473] [1]: Returned Visitor 1 to entrance.
+[1727686182.9415874] [1]: Assisting Visitor 1.
+[1727686182.9418385] [1]: Contacting bi_agent_library for library map.
+[1727686183.942486] [1]: Visitor 1, I am currently out of service.
+[1727686185.938741] [1]: Assisting Visitor 1.
+[1727686185.938849] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727686186.9400046] [1]: Visitor 1, I am currently out of service.
+[1727697458.4493423] [1]: Assisting Visitor 1.
+[1727697458.4494798] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727697459.4506133] [1]: Visitor 1, I am currently out of service.
+[1727697461.4504282] [1]: Assisting Visitor 1.
+[1727697461.4506402] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727697462.4509957] [1]: Visitor 1, I am currently out of service.
+[1727697462.4512663] [1]: Assisting Visitor 1.
+[1727697462.4513469] [1]: Contacting bi_agent_hostels for hostels map.
+[1727697463.452502] [1]: Visitor 1, I am currently out of service.
+[1727697463.452754] [1]: Assisting Visitor 1.
+[1727697463.4528317] [1]: Contacting bi_agent_hostels for hostels map.
+[1727697464.453959] [1]: Visitor 1, host is not available.
+[1727697473.449672] [1]: Assisting Visitor 1.
+[1727697473.4498773] [1]: Contacting bi_agent_hostels for hostels map.
+[1727697474.4510467] [1]: Visitor 1, I am currently out of service.
+[1727697480.4497864] [1]: Assisting Visitor 1.
+[1727697480.4500048] [1]: Contacting bi_agent_library for library map.
+[1727697481.4510124] [1]: Visitor 1, I am currently out of service.
+[1727697481.4528034] [1]: Assisting Visitor 1.
+[1727697481.4529822] [1]: Contacting bi_agent_lhc for lhc map.
+[1727697482.454195] [1]: Visitor 1, your map for library is provided.
+[1727697482.4543898] [1]: Taking Visitor 1 to the host in lhc.
+[1727697484.4549387] [1]: Returned Visitor 1 to entrance.
+[1727697485.449214] [1]: Assisting Visitor 1.
+[1727697485.449394] [1]: Contacting bi_agent_lhc for lhc map.
+[1727697486.450617] [1]: Visitor 1, your map for academic_block is provided.
+[1727697486.4507499] [1]: Taking Visitor 1 to the host in lhc.
+[1727697488.4509726] [1]: Returned Visitor 1 to entrance.
+[1727697488.4512703] [1]: Assisting Visitor 1.
+[1727697488.45137] [1]: Contacting bi_agent_lhc for lhc map.
+[1727697489.452557] [1]: Visitor 1, I am currently out of service.
+[1727697492.4498503] [1]: Assisting Visitor 1.
+[1727697492.4500656] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727697493.4510906] [1]: Visitor 1, your map for sports_complex is provided.
+[1727697493.45136] [1]: Taking Visitor 1 to the host in academic_block.
+[1727697495.453473] [1]: Returned Visitor 1 to entrance.
+[1727697495.4537528] [1]: Assisting Visitor 1.
+[1727697495.4538527] [1]: Contacting bi_agent_hostels for hostels map.
+[1727697496.4549942] [1]: Visitor 1, I am currently out of service.
+[1727697499.4501796] [1]: Assisting Visitor 1.
+[1727697499.450418] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727697500.4509833] [1]: Visitor 1, I am currently out of service.
+[1727697503.449891] [1]: Assisting Visitor 1.
+[1727697503.4501243] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727697504.4510098] [1]: Visitor 1, your map for sports_complex is provided.
+[1727697504.4512124] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727697506.4520853] [1]: Returned Visitor 1 to entrance.
+[1727697513.4496682] [1]: Assisting Visitor 1.
+[1727697513.4498777] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727697514.4510329] [1]: Visitor 1, your map for library is provided.
+[1727697514.4513214] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727697516.4535093] [1]: Returned Visitor 1 to entrance.
+[1727697516.4538417] [1]: Assisting Visitor 1.
+[1727697516.453955] [1]: Contacting bi_agent_hostels for hostels map.
+[1727697517.455011] [1]: Visitor 1, host is not available.
+[1727697522.4495268] [1]: Assisting Visitor 1.
+[1727697522.4496977] [1]: Contacting bi_agent_library for library map.
+[1727697523.450935] [1]: Visitor 1, your map for library is provided.
+[1727697523.4511166] [1]: Taking Visitor 1 to the host in library.
+[1727697525.4532096] [1]: Returned Visitor 1 to entrance.
+[1727697526.449511] [1]: Assisting Visitor 1.
+[1727697526.4497302] [1]: Contacting bi_agent_library for library map.
+[1727697527.450929] [1]: Visitor 1, host is not available.
+[1727697530.4497886] [1]: Assisting Visitor 1.
+[1727697530.4500356] [1]: Contacting bi_agent_library for library map.
+[1727697531.4510255] [1]: Visitor 1, host is not available.
+[1727697537.4494615] [1]: Assisting Visitor 1.
+[1727697537.4496965] [1]: Contacting bi_agent_sports_complex for sports_complex map.
+[1727697538.4509] [1]: Visitor 1, your map for lhc is provided.
+[1727697538.4531858] [1]: Taking Visitor 1 to the host in sports_complex.
+[1727697540.4549587] [1]: Returned Visitor 1 to entrance.
+[1727697540.4552755] [1]: Assisting Visitor 1.
+[1727697540.455392] [1]: Contacting bi_agent_lhc for lhc map.
+[1727697541.456636] [1]: Visitor 1, your map for hostels is provided.
+[1727697541.4570327] [1]: Taking Visitor 1 to the host in lhc.
+[1727697543.4590538] [1]: Returned Visitor 1 to entrance.
+[1727697543.459366] [1]: Assisting Visitor 1.
+[1727697543.4594662] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727697544.4602673] [1]: Visitor 1, host is not available.
+[1727697552.449729] [1]: Assisting Visitor 1.
+[1727697552.4499161] [1]: Contacting bi_agent_library for library map.
+[1727697553.4510572] [1]: Visitor 1, your map for academic_block is provided.
+[1727697553.4514668] [1]: Taking Visitor 1 to the host in library.
+[1727697555.4536116] [1]: Returned Visitor 1 to entrance.
+[1727697556.4494474] [1]: Assisting Visitor 1.
+[1727697556.449681] [1]: Contacting bi_agent_academic_block for academic_block map.
+[1727697557.450943] [1]: Visitor 1, I am currently out of service.
+[1727697563.4494257] [1]: Assisting Visitor 1.
+[1727697563.449665] [1]: Contacting bi_agent_lhc for lhc map.
+[1727697564.4508665] [1]: Visitor 1, your map for hostels is provided.
+[1727697564.4510415] [1]: Taking Visitor 1 to the host in lhc.
+[1727697566.4521117] [1]: Returned Visitor 1 to entrance.

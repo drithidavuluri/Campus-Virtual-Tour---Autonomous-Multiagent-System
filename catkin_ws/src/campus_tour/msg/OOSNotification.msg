@@ -1,0 +1,2 @@
+string bi_agent
+int32 duration

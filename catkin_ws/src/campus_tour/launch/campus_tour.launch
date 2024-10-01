@@ -1,0 +1,15 @@
+<!-- <launch>
+    <node pkg="campus_tour" type="ci_agent.py" name="ci_agent" />
+    <node pkg="campus_tour" type="bi_agent.py" name="bi_agent" />
+    <node pkg="campus_tour" type="visitor_agent.py" name="visitor_agent" />
+</launch> -->
+
+<launch>
+    <node name="visitor_agent" pkg="campus_tour" type="visitor_agent.py" output="screen" />
+    <node name="ci_agent_1" pkg="campus_tour" type="ci_agent.py" output="screen" />
+    <node name="bi_agent_library" pkg="campus_tour" type="bi_agent.py" output="screen" args="Library" />
+    <node name="bi_agent_academic_block" pkg="campus_tour" type="bi_agent.py" output="screen" args="Academic_Block" />
+    <node name="bi_agent_sports_complex" pkg="campus_tour" type="bi_agent.py" output="screen" args="Sports_Complex" />
+    <node name="bi_agent_lhc" pkg="campus_tour" type="bi_agent.py" output="screen" args="LHC" />
+    <node name="bi_agent_hostel" pkg="campus_tour" type="bi_agent.py" output="screen" args="Hostel" />
+</launch>

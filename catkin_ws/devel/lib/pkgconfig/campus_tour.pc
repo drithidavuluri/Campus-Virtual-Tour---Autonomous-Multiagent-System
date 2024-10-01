@@ -1,0 +1,8 @@
+prefix=/home/drithi/catkin_ws/devel
+
+Name: campus_tour
+Description: Description of campus_tour
+Version: 0.0.0
+Cflags: -I/home/drithi/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs roscpp rospy
